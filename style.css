@@ -1,0 +1,32 @@
+.header {
+    background-color:#1B5E20;
+    border: none;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 30px;
+    color:aliceblue;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    
+    padding: 15px;
+}
+
+.submit-btn {
+    background-color: #1B5E20;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  
